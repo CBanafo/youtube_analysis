@@ -19,4 +19,10 @@ $ conda create --name python3-env python
 
 #### Aggregated Metrics
 
+![Aggregated Metrics](https://github.com/CBanafo/youtube_analysis/blob/main/Capture1.JPG)
+
 #### Individual Video Performance
+
+![Individual Analysis](https://github.com/CBanafo/youtube_analysis/blob/main/Capture2.JPG)<b>
+![Individual Analysis](https://github.com/CBanafo/youtube_analysis/blob/main/Capture3.JPG)<b>
+![Individual Analysis](https://github.com/CBanafo/youtube_analysis/blob/main/Capture4.JPG)<b>
